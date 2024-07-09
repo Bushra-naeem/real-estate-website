@@ -19,8 +19,8 @@ const PropertyItem = ({image, price, heading, paragraph, authorImg, name, nameDe
         <div className="flex items-center flex-shrink-0">
           <img className="w-10 h-10 sm:w-12 sm:h-12 rounded-full mr-2 sm:mr-3" src={authorImg} alt="" />
           <div className="flex flex-col justify-between">
-            <a href="#" className="font-bold text-base sm:text-lg">{name}</a>
-            <p className="text-base sm:text-lg">{nameDesc}</p>
+            <a href="#" className="font-bold text-base">{name}</a>
+            <p className="text-base">{nameDesc}</p>
           </div>
         </div>
         <div className="flex justify-center items-center gap-2 text-lg flex-wrap flex-grow">
