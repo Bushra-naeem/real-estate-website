@@ -24,13 +24,13 @@ const PropertyItem = ({image, price, heading, paragraph, authorImg, name, nameDe
           </div>
         </div>
         <div className="flex justify-center items-center gap-2 text-lg flex-wrap flex-grow">
-          <span className="p-2 sm:p-4 bg-gray-100 text-gray-900 rounded-full">
+          <span className="p-2 sm:p-3 bg-gray-100 text-gray-900 rounded-full">
             <IoResize />
           </span>
-          <span className="p-2 sm:p-4 bg-gray-100 text-gray-900 rounded-full">
+          <span className="p-2 sm:p-3 bg-gray-100 text-gray-900 rounded-full">
             <CiHeart />
           </span>
-          <span className="p-2 sm:p-4 bg-gray-100 text-gray-900 rounded-full">
+          <span className="p-2 sm:p-3 bg-gray-100 text-gray-900 rounded-full">
             <IoIosAddCircleOutline />
           </span>
         </div>
