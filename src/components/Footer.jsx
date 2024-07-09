@@ -13,7 +13,7 @@ export default function Footer() {
       <div className='w-full lg:w-1/3 flex flex-col text-sm md:text-base lg:text-xl gap-8 sm:gap-10'>
         <div className=''>
           <a href='' className='mx-auto'>
-            <img src={logolight} alt="Company Logo" className='mb-6 h-10' />
+            <img src={logolight} alt="Company Logo" className='mb-6 h-8' />
           </a>
           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is dummy text of the industry.</p>
         </div>
@@ -44,7 +44,7 @@ export default function Footer() {
       </div>
       <div className='grid grid-cols-1 md:grid-cols-3 gap-16'>
         <div className='flex flex-col gap-8'>
-          <h1 className='text-xl lg:text-3xl font-bold'>Company</h1>
+          <h1 className='text-xl lg:text-2xl font-bold'>Company</h1>
           <p className='flex flex-col gap-5 text-sm md:text-base lg:text-xl'>
             <a href='' className='text-white hover:text-red-500'>About</a>
             <a href='' className='text-white hover:text-red-500'>Blog</a>
@@ -55,7 +55,7 @@ export default function Footer() {
           </p>
         </div>
         <div className='flex flex-col gap-8'>
-          <h1 className='text-xl lg:text-3xl font-bold'>Services</h1>
+          <h1 className='text-xl lg:text-2xl font-bold'>Services</h1>
           <p className='flex flex-col gap-5 text-sm md:text-base lg:text-xl'>
             <a href='' className='text-white hover:text-red-500'>Order tracking</a>
             <a href='' className='text-white hover:text-red-500'>Wish List</a>
@@ -66,7 +66,7 @@ export default function Footer() {
           </p>
         </div>
         <div className='flex flex-col gap-8'>
-          <h1 className='text-xl lg:text-3xl font-bold'>Customer Care</h1>
+          <h1 className='text-xl lg:text-2xl font-bold'>Customer Care</h1>
           <p className='flex flex-col gap-5 text-sm md:text-base lg:text-xl'>
             <a href='' className='text-white hover:text-red-500'>Login</a>
             <a href='' className='text-white hover:text-red-500'>My account</a>
