@@ -22,7 +22,7 @@ export default function Header() {
       <div className="z-[9999] fixed w-full bg-white flex justify-between items-center py-8
        px-4 md:px-12 lg:px-28 gap-8">
         <Link to="">
-          <img src={logo} alt="" className="h-8 md:max-w-3xl" />
+          <img src={logo} alt="" className="h-6 md:max-w-3xl" />
         </Link>
 
       <button
@@ -33,7 +33,7 @@ export default function Header() {
       </button>
 
         {/* Desktop navigation */}
-        <nav ref={navRef} className="hidden lg:flex lg:gap-7 font-normal lg:text-xl">
+        <nav ref={navRef} className="hidden lg:flex lg:gap-7 font-normal lg:text-base">
           <Link to="home" spy={true} smooth={true} offset={-100} duration={500}>
             <li className="list-none cursor-pointer">Home</li>
           </Link>
