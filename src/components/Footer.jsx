@@ -45,7 +45,7 @@ export default function Footer() {
       <div className='grid grid-cols-1 md:grid-cols-3 gap-16'>
         <div className='flex flex-col gap-8'>
           <h1 className='text-xl lg:text-2xl font-bold'>Company</h1>
-          <p className='flex flex-col gap-5 text-sm md:text-base lg:text-xl'>
+          <p className='flex flex-col gap-5 text-sm md:text-base'>
             <a href='' className='text-white hover:text-red-500'>About</a>
             <a href='' className='text-white hover:text-red-500'>Blog</a>
             <a href='' className='text-white hover:text-red-500'>All Products</a>
@@ -56,7 +56,7 @@ export default function Footer() {
         </div>
         <div className='flex flex-col gap-8'>
           <h1 className='text-xl lg:text-2xl font-bold'>Services</h1>
-          <p className='flex flex-col gap-5 text-sm md:text-base lg:text-xl'>
+          <p className='flex flex-col gap-5 text-sm md:text-base'>
             <a href='' className='text-white hover:text-red-500'>Order tracking</a>
             <a href='' className='text-white hover:text-red-500'>Wish List</a>
             <a href='' className='text-white hover:text-red-500'>Login</a>
@@ -67,7 +67,7 @@ export default function Footer() {
         </div>
         <div className='flex flex-col gap-8'>
           <h1 className='text-xl lg:text-2xl font-bold'>Customer Care</h1>
-          <p className='flex flex-col gap-5 text-sm md:text-base lg:text-xl'>
+          <p className='flex flex-col gap-5 text-sm md:text-base'>
             <a href='' className='text-white hover:text-red-500'>Login</a>
             <a href='' className='text-white hover:text-red-500'>My account</a>
             <a href='' className='text-white hover:text-red-500'>Wish List</a>
@@ -78,7 +78,7 @@ export default function Footer() {
         </div>
       </div>
     </footer>
-    <div className='text-center text-white p-6 sm:p-7 text-base md:text-lg lg:text-xl bg-slate-900 mb-16 sm:mb-0'>
+    <div className='text-center text-white p-6 sm:p-7 text-base md:text-lg bg-slate-900 mb-16 sm:mb-0'>
       © 2024 <a href="#">codewithsadee</a>. All Rights Reserved
     </div>
   </>
