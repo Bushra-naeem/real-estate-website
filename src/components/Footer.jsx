@@ -10,7 +10,7 @@ export default function Footer() {
   return (
     <>
     <footer className='bg-slate-800 text-white flex flex-col space-y-2 lg:space-y-0 lg:flex-row px-8 md:px-32 lg:px-24 py-20 sm:py-24 gap-16 lg:gap-24'>
-      <div className='w-full lg:w-1/3 flex flex-col text-sm md:text-base lg:text-xl gap-8 sm:gap-10'>
+      <div className='w-full lg:w-1/3 flex flex-col text-sm md:text-base gap-8 sm:gap-10'>
         <div className=''>
           <a href='' className='mx-auto'>
             <img src={logolight} alt="Company Logo" className='mb-6 h-8' />
