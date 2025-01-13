@@ -1,8 +1,6 @@
 # 🏠 Homeverse
 
-Homeverse is a fully responsive real estate website built with React.js and TailwindCSS. It provides a user-friendly interface for users to browse and find real estate properties.
-
----
+Homeverse is a fully responsive real estate website built with React.js and TailwindCSS.
 
 ## 🛠️ Technologies
 
