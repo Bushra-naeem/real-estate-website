@@ -5,7 +5,7 @@ import BlogItem from "./BlogItem";
 export default function Blog() {
   return (
     <section
-      className="bg-slate-50 shadow-xl flex flex-col items-center gap-5 py-20 px-4 md:px-12 lg:px-24"
+      className="bg-slate-50 shadow-xl flex flex-col items-center font-merriweather gap-5 py-20 px-4 md:px-12 lg:px-24"
       id="blog"
     >
       <button className="text-red-500 font-semibold border-2 border-pink-100 py-1 px-3 bg-pink-50 rounded-3xl">

@@ -54,8 +54,6 @@ Make sure you have the following installed:
 npm start
 ```
 
-Now open http://localhost:3000 to view it in the browser.
-
 ---
 
 ## 🌐 Connect With Me

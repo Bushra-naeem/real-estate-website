@@ -55,7 +55,7 @@ export const blog_list = [
     image: blog3,
     user: "by: Admin",
     features: "Room",
-    heading: "Renovating a Living Room? Experts Share Their Secrets",
+    heading: "Renovating a Living Room?",
     date: "Apr 18, 2024",
     text: "READ MORE",
   },
@@ -75,7 +75,7 @@ export const property_list = [
   {
     image: property2,
     price: "$34,900/Month",
-    heading: "Modern Apartments",
+    heading: "Stylish Modern Apartments",
     paragraph:
       "Beautiful Huge 1 Family House in Heart Of Westbury. Newly Renovated With New Wood",
     authorImg: author,
