@@ -38,7 +38,7 @@ Make sure you have the following installed:
    cd real-estate-website
    ```
 
-3. Install NPM packages
+3. Install npm packages
 
    ```sh
    npm install
